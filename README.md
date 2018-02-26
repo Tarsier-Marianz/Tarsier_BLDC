@@ -23,7 +23,7 @@ recommended.
 Manual library installation :
 
 1. Download the
-   [latest release archive from GitHub](https://github.com/Tarsier-Marianz/Tarsier_BLDC)
+   [latest release archive from GitHub](https://github.com/Tarsier-Marianz/Tarsier_BLDC/archive/master.zip)
    and decompress it.
 2. Rename the folder "`Tarsier_BLDC-master`" to "`Tarsier_BLDC`".
 3. Drag the "`Tarsier_BLDC`" folder into the "libraries" directory inside your
@@ -63,12 +63,6 @@ incorrectly and you should retry the installation instructions above.
             {0, 1, 0},
         };
 
-Sequence in tabular form.
-|  Pins |   |   |   |   |   |   |
-|-------|---|---|---|---|---|---|
-| PIN 1 | 1 | 1 | 1 | 0 | 0 | 0 |
-| PIN 2 | 1 | 0 | 0 | 0 | 1 | 1 |
-| PIN 3 | 0 | 0 | 1 | 1 | 1 | 0 |
 
 Pin output encoding sequence can be found [here](http://elabz.com/brushless-dc-motor-with-arduino/)
 
