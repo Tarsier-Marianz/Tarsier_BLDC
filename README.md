@@ -49,7 +49,7 @@ incorrectly and you should retry the installation instructions above.
 - `Tarsier_BLDC(byte pin1, byte pin2, byte pin3)` <br>
   Alternate constructor for connections remapped by user on its desired configuration.
 - `void setPins(byte pin1, byte pin2, byte pin3)` <br> Another alternate way to configure pin connection of the Arduino board to 3 phase BLDC motor.
-- `void setDelay()` <br> Set time delay
+- `void setDelay(int delayTime)` <br> Set time delay
 - `void forward()` <br> Command to forward motor
 - `void forward()` <br> Command to backward motor
 
