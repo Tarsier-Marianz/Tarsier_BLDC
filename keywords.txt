@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for Tarsier_BLDC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Tarsier_BLDC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPins	KEYWORD2
+setDelay	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+getPressure	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DVD_3PHASE	LITERAL1
