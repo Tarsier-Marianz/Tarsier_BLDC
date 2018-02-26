@@ -52,6 +52,7 @@ incorrectly and you should retry the installation instructions above.
 - `void setDelay(int delayTime)` <br> Set time delay
 - `void forward()` <br> Command to forward motor
 - `void forward()` <br> Command to backward motor
+- `void stop()` <br> Command to stop motor
 
 ### *Motor encoding sequence*
         int _sequence [6][3] = {

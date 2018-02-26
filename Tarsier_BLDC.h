@@ -52,5 +52,6 @@ class Tarsier_BLDC{
         void setDelay(int delay);
         void forward();
         void backward();
+        void stop();
 };
 #endif

@@ -64,3 +64,9 @@ void Tarsier_BLDC::backward() {
   }
 }
 
+void Tarsier_BLDC::stop() {
+  digitalWrite(_motorPin1, LOW);
+  digitalWrite(_motorPin2, LOW);
+  digitalWrite(_motorPin3, LOW);
+}
+
