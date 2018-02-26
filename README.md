@@ -68,7 +68,8 @@ Pin output encoding sequence can be found [here](http://elabz.com/brushless-dc-m
 
 ## Example Program
 See the demo inside **examples** sub-folder.
-[DVD_3PhaseMotor](https://github.com/Tarsier-Marianz/Tarsier_BLDC/blob/master/examples/DVD_3PhaseMotor/DVD_3PhaseMotor.ino)
+
+  - [DVD_3PhaseMotor](https://github.com/Tarsier-Marianz/Tarsier_BLDC/blob/master/examples/DVD_3PhaseMotor/DVD_3PhaseMotor.ino)
 
 
 ## Credits
@@ -76,5 +77,7 @@ See the demo inside **examples** sub-folder.
 [Elabz.com](http://elabz.com/brushless-dc-motor-with-arduino/) -for motor encoding sequence
 
 [Visual Studio Code](https://code.visualstudio.com/
-) - letting me to use a free IDE (Code Editor)
+) - letting me to use a free Code Editor
+
+[Arduino IDE](https://www.arduino.cc/en/Main/OldSoftwareReleases) - for code writing and uploading to a board.
 
