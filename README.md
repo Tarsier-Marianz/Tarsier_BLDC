@@ -51,7 +51,7 @@ incorrectly and you should retry the installation instructions above.
 - `void setPins(byte pin1, byte pin2, byte pin3)` <br> Another alternate way to configure pin connection of the Arduino board to 3 phase BLDC motor.
 - `void setDelay(int delayTime)` <br> Set time delay
 - `void forward()` <br> Command to forward motor
-- `void forward()` <br> Command to backward motor
+- `void backward()` <br> Command to backward motor
 - `void stop()` <br> Command to stop motor
 
 ### *Motor encoding sequence*
